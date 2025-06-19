@@ -1,4 +1,9 @@
-CEST 2025-06-16-16.30.53
-Unix 1750091453
-UCST 0010-nyár-1-04.01.53_A.C.
-Csex 2692913
+[ENGLISH]
+
+Repository created: 2025-06-15 16:24 CEST  
+This timestamp marks the official creation of the "Queen Csetke Reception Room" project repository.
+
+[HUNGARIAN / MAGYARUL]
+
+A repó létrehozásának ideje: 2025-06-15 16:24 CEST  
+Ez az időpont jelöli a „Csetke királynő fogadószobája” projekt hivatalos indulását.
